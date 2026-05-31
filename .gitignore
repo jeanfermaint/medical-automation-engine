@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+.vscode/
+flask_session/
+venv/
+*.ini
+*.json
+*.csv
+*.xlsx
